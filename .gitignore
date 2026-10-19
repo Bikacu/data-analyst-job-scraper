@@ -1,0 +1,22 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+
+# data mentah (konten Jobstreet)
+page.html
+jobs_*.csv
+
+# skrip uji dan versi lama
+test.py
+fetch_test.py
+pw_test.py
+detail_test.py
+extract_test.py
+inspect_html.py
+clean.py
+skills.py
+validate.py
+scrape_list.py
+scrape_detail.py
+skill_top.png
