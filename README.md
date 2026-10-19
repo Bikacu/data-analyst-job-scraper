@@ -2,6 +2,8 @@
 
 Studi awal untuk mengetahui skill, pengalaman, dan kisaran gaji yang diminta untuk posisi Data Analyst di Indonesia, berdasarkan 48 lowongan di Jobstreet Indonesia (data diambil Oktober 2026).
 
+**Laporan online:** [Hasil analisa](https://bikacu.github.io/data-analyst-job-scraper/) | [Catatan proses](https://bikacu.github.io/data-analyst-job-scraper/proses.html)
+
 ## Temuan utama
 
 | Skill | % lowongan |
@@ -36,7 +38,7 @@ Studi awal untuk mengetahui skill, pengalaman, dan kisaran gaji yang diminta unt
 | `check_filter.py` | Mengecek judul yang terbuang oleh filter |
 | `analysis.py` | Menghitung skill, pengalaman, gaji, lalu membuat grafik |
 | `skill_freq.csv` | Hasil agregat frekuensi skill |
-| `reports/` | Laporan hasil analisa dan catatan proses (HTML) |
+| `docs/` | Laporan hasil analisa (`index.html`) dan catatan proses (`proses.html`), tampil lewat GitHub Pages |
 
 ## Cara menjalankan
 
